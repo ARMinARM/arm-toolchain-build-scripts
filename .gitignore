@@ -7,12 +7,4 @@
 addontools
 install
 
-binutils*
-expat*
-gcc*
-gdb*
-gmp*
-mpc*
-mpfr*
-newlib*
-zlib*
+

@@ -36,7 +36,7 @@ You may also want:
 Install required packages
 
    - Debian: apt-get install build-essential automake bzip2 libtool gcc-multilib libncurses5-dev
-   - Raspbian: apt-get install bzip2 libtoollibncurses5-dev flex bison texlive
+   - Raspbian: apt-get install bzip2 libtool libncurses5-dev flex bison texlive
    - CentOS: yum install gcc gcc-c++ make autoconf glibc-devel.i386 libstdc++-devel.i386 automake ncurses-devel
 
 Download / extract scripts
